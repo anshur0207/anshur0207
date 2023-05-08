@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anshur0207
-- 👀 I’m interested in WEB DEVELOPMENT
+- 👀 I’m interested in WEB DEVELOPMENT Now I am Salesforce Developer
 - 🌱 I am currently Practicing Data Structures And Algorithm.
-- Placed in Cognizant Technology Solutions
+- Working as a Salesforce Developer In Cognizant
 - 
 - 📫 if you want to talk just drop a mail anshur0202@gmail.com
 
